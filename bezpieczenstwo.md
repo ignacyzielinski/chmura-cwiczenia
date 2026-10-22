@@ -1,0 +1,1 @@
+Hasła i klucze w repozytorum stanowią zagrożenie, ponieważ w przypadku publicznego repozytorium cały internet może użyć ich do przejęcia kont, serwerów lub usług w chmurze. Samo usunięcie pliku z hasłem nie wystarcza, ponieważ Git przechowuje całą historię zmian. Automatyczne boty skanują GitHuba w poszukiwaniu takich kluczy i potrafią je wykorzystać minuty od publikacji.
